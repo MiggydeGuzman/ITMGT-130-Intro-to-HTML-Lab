@@ -31,13 +31,13 @@ body {
 
 th {
     text-align: center;
-    font-size: 50x;
+    font-size: 30px;
     font-weight: bold;
 }
 
 td {
     text-align: center;
-    font-size: 40x;
+    font-size: 20px;
 }
 
 .tables {
