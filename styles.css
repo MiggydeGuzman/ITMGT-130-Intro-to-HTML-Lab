@@ -1,0 +1,59 @@
+h1 {
+    color: rgb(245, 239, 239);
+    text-align: center;
+    font-family: "Helvetica";
+    font-size: 60px;
+    font-weight: bold;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-family: "Helvetica";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    font-family: "Helvetica";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+body {
+    font-family: "Helvetica";
+    font-size: 30px;
+    font-weight: 200;
+    background-color: rgb(141, 61, 61);
+}
+
+th {
+    text-align: center;
+    font-size: 50x;
+    font-weight: bold;
+}
+
+td {
+    text-align: center;
+    font-size: 40x;
+}
+
+.tables {
+	height: 80vh;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+
+.center {
+    text-align: center;
+}
+
+.coffee {
+    height: 15vh;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
